@@ -1,0 +1,28 @@
+{"1.1.0",
+[{<<"apns">>,{pkg,<<"apns4erl">>,<<"2.2.1">>},0},
+ {<<"base64url">>,{pkg,<<"base64url">>,<<"0.0.1">>},1},
+ {<<"chatterbox">>,{pkg,<<"chatterbox">>,<<"0.7.0">>},1},
+ {<<"cowboy">>,
+  {git,"https://github.com/ninenines/cowboy",
+       {ref,"5ff3fdd91e20a137b6378c7271826c1d94d4e3d2"}},
+  0},
+ {<<"cowlib">>,
+  {git,"git://github.com/ninenines/cowlib.git",
+       {ref,"d544a494af4dbc810fc9c15eaf5cc050cced1501"}},
+  1},
+ {<<"hpack">>,{pkg,<<"hpack_erl">>,<<"0.2.3">>},2},
+ {<<"jsx">>,{pkg,<<"jsx">>,<<"2.9.0">>},1},
+ {<<"ranch">>,
+  {git,"git://github.com/ninenines/ranch.git",
+       {ref,"adf1822defc2b7cfdc7aca112adabfa1d614043c"}},
+  1},
+ {<<"worker_pool">>,{pkg,<<"worker_pool">>,<<"4.0.0">>},0}]}.
+[
+{pkg_hash,[
+ {<<"apns">>, <<"C3254B05A6E415DB3F70BCBF1521DEE86DEA0E90721C08E7D9DF85B74808F591">>},
+ {<<"base64url">>, <<"36A90125F5948E3AFD7BE97662A1504B934DD5DAC78451CA6E9ABF85A10286BE">>},
+ {<<"chatterbox">>, <<"8036197E00C42B3AC401DABDA722FD211071B27CBD59A7CEA471185F5D1F573A">>},
+ {<<"hpack">>, <<"17670F83FF984AE6CD74B1C456EDDE906D27FF013740EE4D9EFAA4F1BF999633">>},
+ {<<"jsx">>, <<"D2F6E5F069C00266CAD52FB15D87C428579EA4D7D73A33669E12679E203329DD">>},
+ {<<"worker_pool">>, <<"CD94D94D3B1A2442E54DB001B0B3BA0BD1F9D8098F4253F57228C021524BB55B">>}]}
+].
